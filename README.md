@@ -7,7 +7,7 @@ Software Engineer @ Firstpos Retail Softsolutions
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/pravin-raj-998a4a1b9)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pravin-raj-998a4a1b9/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know All.
 
