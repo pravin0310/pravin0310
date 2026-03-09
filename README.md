@@ -5,7 +5,7 @@
 Currently working as **Software Engineer @ Solvify Solutions Private limited** with **6+ years of experience** building scalable backend systems using **Java, Spring Boot, and Microservices**.
 
 <!-- img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/pravin0310/pravin0310/main/backend-architecture.png">
+<img align="right" width="380" src="https://raw.githubusercontent.com/pravin0310/pravin0310/main/profile-image.png">
 
 ---
 
