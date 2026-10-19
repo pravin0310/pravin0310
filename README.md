@@ -19,7 +19,7 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/pravin0310/pravin0310/main/profile-image.png">
 
-- 💼 **Software Engineer @ Solvify Solutions Private Limited** with **6+ years** of experience
+- 💼 **Software Engineer @ SOM Imaging Information Private Limited** with **6+ years** of experience
 - 🔭 Building scalable, reliable backends with **Java, Spring Boot, Microservices and Distributed Systems**
 - 🌱 Deepening expertise in **System Design, Software Architecture, and DSA**
 - 🎯 Actively preparing for **FAANG / MAANG** engineering roles
@@ -128,7 +128,11 @@ AI Tools
 
 ## 📈 GitHub Activity Graph
 
-[![Pravin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pravin0310&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/pravin0310)
+<div align="center">
+  <a href="https://github.com/pravin0310">
+    <img src="https://ghchart.rshah.org/51f565/pravin0310" alt="Pravin's GitHub contribution graph" width="90%"/>
+  </a>
+</div>
 
 ---
 
@@ -141,8 +145,6 @@ AI Tools
 </div>
 
 ---
-
-> Requires the snake workflow below. Remove this section if you don't set it up.
 
 ---
 
