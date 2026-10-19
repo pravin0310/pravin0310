@@ -19,7 +19,7 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/pravin0310/pravin0310/main/profile-image.png">
 
-- 💼 **Software Engineer @ SOM Imaging Information Private Limited** with **6+ years** of experience
+- 💼 **Software Engineer @ SOM Imaging Informatics Private Limited** with **6+ years** of experience
 - 🔭 Building scalable, reliable backends with **Java, Spring Boot, Microservices and Distributed Systems**
 - 🌱 Deepening expertise in **System Design, Software Architecture, and DSA**
 - 🎯 Actively preparing for **FAANG / MAANG** engineering roles
