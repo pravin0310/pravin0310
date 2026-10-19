@@ -1,112 +1,152 @@
-## Hi there 👋 I'm Pravin Raj
+<!-- ================= HEADER BANNER ================= -->
+<div align="center">
 
-💻 **Senior Software Engineer | Java Backend Developer | Microservices Enthusiast**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pravin%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20%7C%20Microservices%20%7C%20Distributed%20Systems&descSize=18&descAlignY=60" width="100%"/>
 
-Currently working as **Software Engineer @ Solvify Solutions Private limited** with **6+ years of experience** building scalable backend systems using **Java, Spring Boot, and Microservices**.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51F565&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+Microservices;Preparing+for+FAANG+%2F+MAANG+roles;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
 
-<!-- img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/pravin0310/pravin0310/main/profile-image.png">
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pravin0310&label=Profile%20Views&color=51f565&style=for-the-badge" alt="profile views"/>
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Building scalable and reliable backend systems using **Java, Spring Boot, Microservices, and Distributed Systems**
-- 🌱 Deepening expertise in **Software Architecture, System Design, and Data Structures & Algorithms**
-- 👯 Interested in collaborating on **high-impact backend systems, AI integrations, and distributed platforms**
-- 🎯 Actively preparing for **FAANG / MAANG engineering roles** by mastering **DSA, System Design, and large-scale architecture**
+<img align="right" width="320" src="https://raw.githubusercontent.com/pravin0310/pravin0310/main/profile-image.png">
+
+- 💼 **Software Engineer @ Solvify Solutions Private Limited** with **6+ years** of experience
+- 🔭 Building scalable, reliable backends with **Java, Spring Boot, Microservices and Distributed Systems**
+- 🌱 Deepening expertise in **System Design, Software Architecture, and DSA**
+- 🎯 Actively preparing for **FAANG / MAANG** engineering roles
+- 👯 Open to collaborating on **high-impact backend systems, AI integrations and distributed platforms**
 - 💬 Ask me about **Java, Spring Boot, Microservices, REST APIs, System Design, PHP, Vue.js, React.js**
-- 📫 Reach me at **pravinraj0101@gmail.com**
-- ⚡ Fun fact: I enjoy **breaking down complex problems, designing scalable solutions, and writing clean production-grade code**
+- 📫 **pravinraj0101@gmail.com**
+- ⚡ Fun fact: I enjoy breaking down complex problems and writing clean, production-grade code
+
+<br/><br/>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PravinRaj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pravin-raj-998a4a1b9/)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-PravinRaj-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/pravinraj0101)
-
-[![Scaler](https://img.shields.io/badge/Scaler-PravinRaj-red?style=for-the-badge)](https://www.scaler.com/academy/profile/)
-
-[![GitHub](https://img.shields.io/badge/Github-pravin0310-black?style=for-the-badge&logo=github)](https://github.com/pravin0310)
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-
-<!-- Backend -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"/>
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<!-- API -->
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-
-<!-- Database -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<!-- Architecture -->
-<img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Distributed_Systems-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Event_Driven-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-<!-- DevOps -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/pravin-raj-998a4a1b9/"><img src="https://img.shields.io/badge/LinkedIn-Pravin%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/pravin0310"><img src="https://img.shields.io/badge/GitHub-pravin0310-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Pravin0101/"><img src="https://img.shields.io/badge/LeetCode-Pravin0101-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/pravinraj0101"><img src="https://img.shields.io/badge/HackerRank-pravinraj0101-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="mailto:pravinraj0101@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-# 🧠 Currently Learning
+## 🛠️ Tech Stack
 
-- Data Structures & Algorithms
-- System Design
-- Distributed Systems
-- Kafka & Event Driven Architecture
+<div align="center">
+
+**Languages & Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,ts&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind&theme=dark" />
+
+**Databases & Messaging**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka&theme=dark" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=idea,postman,jira,maven&theme=dark" />
+
+AI Tools
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/> </div>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## 🏗️ Architecture & Engineering Focus
 
-![Pravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravin0310&theme=tokyonight&show_icons=true)
-
----
-
-# 🧑‍💻 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Pravin0101?theme=dark&font=Marcellus&ext=contest)
-
----
-
-# 📈 GitHub Activity Graph
-
-[![Pravin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pravin0310&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/pravin0310)
+| Area | What I work on |
+|------|----------------|
+| ☕ **Backend** | Java, Spring Boot, REST APIs, high-performance services |
+| 🧩 **Architecture** | Microservices, event-driven design, distributed systems |
+| 📨 **Messaging** | Kafka, async processing, retries and idempotency |
+| ⚡ **Performance** | Caching with Redis, query optimization, scalability |
+| ☁️ **Cloud / DevOps** | AWS, Docker, Kubernetes, CI/CD |
+| 🧠 **Fundamentals** | DSA, System Design, clean code |
 
 ---
 
-⭐ **Focus Areas**
+## 🧠 Currently Learning
+
+```text
+[██████████░░░░░░░░░░]  Data Structures & Algorithms
+[████████████░░░░░░░░]  System Design
+[██████████░░░░░░░░░░]  Distributed Systems
+[████████░░░░░░░░░░░░]  Kafka & Event-Driven Architecture
+[██████░░░░░░░░░░░░░░]  AI / LLM Integration (Prompt Engineering, RAG, AI Agents)
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pravin0310&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravin0310&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=pravin0310&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧑‍💻 LeetCode Stats & Activity
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Pravin0101?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats with heatmap" />
+
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Pravin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pravin0310&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/pravin0310)
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pravin0310&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
+</div>
+
+---
+
+> Requires the snake workflow below. Remove this section if you don't set it up.
+
+---
+
+## ⭐ Focus Areas
 
 - Java Backend Development
 - Spring Boot & Microservices
@@ -116,4 +156,10 @@ Currently working as **Software Engineer @ Solvify Solutions Private limited** w
 
 ---
 
+<div align="center">
+
 💡 *Always learning, always building.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
